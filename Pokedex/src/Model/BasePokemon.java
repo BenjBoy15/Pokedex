@@ -1,6 +1,10 @@
 
 package Model;
-
+/**
+ * 
+ * @author benj
+ *
+ */
 public class BasePokemon{
 	
 	int devStage;
